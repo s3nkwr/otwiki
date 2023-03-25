@@ -11,7 +11,7 @@
 ## 📚 Дополнительные моды
 
 * [Старт моддинга](dopolnitelnye-mody/start-moddinga.md)
-* [Ресуспаки](dopolnitelnye-mody/resuspaki.md)
+* [Ресурспаки](dopolnitelnye-mody/resurspaki.md)
 * [Защита лицензии](dopolnitelnye-mody/zashita-licenzii.md)
 * [Эмоции](dopolnitelnye-mody/emocii.md)
 * [Войсчат](dopolnitelnye-mody/voischat.md)
