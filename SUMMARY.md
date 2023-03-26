@@ -9,11 +9,11 @@
 * [Как получить проходку?](how-join/kak-poluchit-prokhodku.md)
 * [Правила Сервера](how-join/pravila-servera.md)
 
-## 📚 Дополнительные моды
+## 📚 Дополнительные моды <a href="#additional-mods" id="additional-mods"></a>
 
-* [Старт моддинга](dopolnitelnye-mody/start-moddinga.md)
-* [Сборка и Ресурспак](dopolnitelnye-mody/sborka.md)
-* [Защита лицензии](dopolnitelnye-mody/zashita-licenzii.md)
-* [Эмоции](dopolnitelnye-mody/emocii.md)
-* [Войсчат](dopolnitelnye-mody/voischat.md)
-* [Реплеи](dopolnitelnye-mody/replei.md)
+* [Старт моддинга](additional-mods/modloaders.md)
+* [Сборка и Ресурспак](additional-mods/sborka-i-resurspak.md)
+* [Защита лицензии](additional-mods/zashita-licenzii.md)
+* [Эмоции](additional-mods/emocii.md)
+* [Войсчат](additional-mods/voischat.md)
+* [Реплеи](additional-mods/replei.md)

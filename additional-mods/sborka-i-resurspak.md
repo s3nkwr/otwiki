@@ -6,7 +6,7 @@ description: А ссылка на установку Ресурспака в н�
 
 ## Установка нашей сборки!
 
-1. Устанавливаем[ <mark style="color:purple;">**FabricMC**</mark>](start-moddinga.md) или [<mark style="color:purple;">**QuiltMC**</mark>](start-moddinga.md)<mark style="color:purple;">****</mark>
+1. Устанавливаем[ <mark style="color:purple;">**FabricMC**</mark>](modloaders.md) или [<mark style="color:purple;">**QuiltMC**</mark>](modloaders.md)<mark style="color:purple;">****</mark>
 2. Скачиваем сборку с **Google Drive** - [<mark style="color:purple;">**ссылка**</mark>](https://drive.google.com/file/d/1-oyhcED9VzlPAZNSz\_xuwHV62GuyG4XG/view?usp=sharing)<mark style="color:purple;">****</mark>
 3. В архиве есть папка **.minecraft**
 4. Кидаем эту папку в **.appdata/roaming. Эта папка зависит от лаунчера!!!**
@@ -23,7 +23,7 @@ description: А ссылка на установку Ресурспака в н�
 1. Заходим в Дискорд и переходим по этой [<mark style="color:purple;">**ссылке**</mark>](https://discord.com/channels/1001529558232731729/1008474486452007072/1069648788785999872)<mark style="color:purple;">****</mark>
 2. Находим в этом сообщении пункт с **Нашим ресурспаком**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Пункт в Дискорде.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Пункт в Дискорде.</p></figcaption></figure>
 
 ### Установка Ресурспака в Майнкрафт
 
@@ -34,5 +34,5 @@ description: А ссылка на установку Ресурспака в н�
 5. Видим наш Ресурспак и включаем его.
 6.  **Ресурспак установлен!**
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Как выглядит в Меню ресурспаков.</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Как выглядит в Меню ресурспаков.</p></figcaption></figure>
 
