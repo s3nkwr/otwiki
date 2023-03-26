@@ -6,14 +6,14 @@
 
 ## 🤔 Как зайти на сервер? <a href="#how-join" id="how-join"></a>
 
-* [Как получить проходку?](how-join/kak-poluchit-prokhodku.md)
-* [Правила Сервера](how-join/pravila-servera.md)
+* [Как получить проходку?](how-join/how-to-join.md)
+* [Правила Сервера](how-join/server-rules.md)
 
 ## 📚 Дополнительные моды <a href="#additional-mods" id="additional-mods"></a>
 
-* [Старт моддинга](additional-mods/modloaders.md)
-* [Сборка и Ресурспак](additional-mods/sborka-i-resurspak.md)
-* [Защита лицензии](additional-mods/zashita-licenzii.md)
-* [Эмоции](additional-mods/emocii.md)
-* [Войсчат](additional-mods/voischat.md)
-* [Реплеи](additional-mods/replei.md)
+* [Старт моддинга](dopolnitelnye-mody/start-moddinga.md)
+* [Сборка и Ресурспак](additional-mods/modpack-and-resourcepack.md)
+* [Защита лицензии](additional-mods/no-chat-reports.md)
+* [Эмоции](additional-mods/emotecraft.md)
+* [Войсчат](additional-mods/plasmovoice.md)
+* [Реплеи](additional-mods/replaymod.md)
