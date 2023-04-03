@@ -17,3 +17,7 @@
 * [Эмоции](additional-mods/emotecraft.md)
 * [Войсчат](additional-mods/plasmovoice.md)
 * [Реплеи](additional-mods/replaymod.md)
+
+## 🪠 Плагины <a href="#plugins" id="plugins"></a>
+
+* [Brewery](plugins/brewery.md)
