@@ -1,5 +1,8 @@
 ---
 description: Получить "Проходку" можно двумя способами.
+cover: >-
+  https://images.unsplash.com/photo-1679189790392-98ce5a4ef47c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODExOTU1NDY&ixlib=rb-4.0.3&q=85
+coverY: -74
 ---
 
 # Как получить проходку?
@@ -8,7 +11,7 @@ description: Получить "Проходку" можно двумя спос�
 
 Первый способ самый простой, но для него нужны деньги.&#x20;
 
-_**Покупка проходки на сайте **<mark style="color:purple;">****</mark>_ [_<mark style="color:purple;">**https://shop.otlegacy.com/**</mark>_](https://shop.otlegacy.com/) <mark style="color:purple;">****</mark>&#x20;
+_**Покупка проходки на сайте**_ [_<mark style="color:purple;">**https://shop.otlegacy.com/**</mark>_](https://shop.otlegacy.com/)&#x20;
 
 Да все так просто, вписываете ник и оплачиваете.&#x20;
 

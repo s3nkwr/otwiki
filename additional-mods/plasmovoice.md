@@ -9,8 +9,8 @@ description: На нашем сервере стоит PlasmoVoice с его А�
 ### Установка Plasmo Voice!
 
 1. Поместите в вашу папку Майнкрафта. Пример: **`.minecraft/mods`**
-2. Скачайте мод для вашего Лоадера: **** [<mark style="color:purple;">**Forge**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?g=1.19.3\&l=forge) /[ ** **<mark style="color:purple;">**Fabric**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?l=fabric\&g=1.19.3)<mark style="color:purple;">****</mark>[ <mark style="color:purple;"></mark> ](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)/ [<mark style="color:purple;">**Quilt**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?l=fabric\&g=1.19.3)<mark style="color:purple;">****</mark>
-3. Установите какой нибудь <mark style="color:purple;"></mark> [<mark style="color:purple;">**Лоадер**</mark>](../dopolnitelnye-mody/start-moddinga.md).
+2. Скачайте мод для вашего Лоадера: [<mark style="color:purple;">**Forge**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?g=1.19.3\&l=forge) /[ <mark style="color:purple;">**Fabric**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?l=fabric\&g=1.19.3)[ ](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)/ [<mark style="color:purple;">**Quilt**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?l=fabric\&g=1.19.3)
+3. Установите какой нибудь [<mark style="color:purple;">**Лоадер**</mark>](../dopolnitelnye-mody/start-moddinga.md).
 
 ## Настройка мода
 
