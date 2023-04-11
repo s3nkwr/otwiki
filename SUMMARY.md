@@ -3,11 +3,16 @@
 ## 😀 OTLegacy
 
 * [Что такое этот ваш OTLegacy?](README.md)
+* [Фишки ОТЛ](otlegacy/fishki-otl.md)
 
 ## 🤔 Как зайти на сервер? <a href="#how-join" id="how-join"></a>
 
 * [Как получить проходку?](how-join/how-to-join.md)
 * [Правила Сервера](how-join/server-rules.md)
+
+## 💰 Поддержка <a href="#donate" id="donate"></a>
+
+* [Донаты](donate/donaty.md)
 
 ## 📚 Дополнительные моды <a href="#additional-mods" id="additional-mods"></a>
 
