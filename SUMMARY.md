@@ -12,7 +12,7 @@
 
 ## 💰 Поддержка <a href="#donate" id="donate"></a>
 
-* [Донаты](donate/donaty.md)
+* [Boosty & Patreon](donate/boosty-and-patreon.md)
 
 ## 📚 Дополнительные моды <a href="#additional-mods" id="additional-mods"></a>
 
