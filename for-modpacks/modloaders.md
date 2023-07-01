@@ -9,7 +9,7 @@ coverY: -509
 
 # Старт моддинга
 
-## Установка  FabricMC
+## Установка FabricMC
 
 1. Зайдите на сайт загрузки **FabricMC** - [<mark style="color:purple;">**https://fabricmc.net/use/installer/**</mark>](https://fabricmc.net/use/installer/)
 2. Нажмите **Download for (Ваша система).**

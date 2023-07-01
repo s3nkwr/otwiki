@@ -4,7 +4,7 @@
 
 * [Что такое этот ваш OTLegacy?](README.md)
 * [Как получить проходку?](otlegacy/how-to-join.md)
-* [Фишки ОТЛ](otlegacy/fishki-otl.md)
+* [Команды](otlegacy/komandy.md)
 * [Правила Сервера](otlegacy/server-rules.md)
 
 ## 💰 Поддержка <a href="#donate" id="donate"></a>
