@@ -6,7 +6,7 @@ description: У нас стоит плагин EmoteCraft для эмоций.
 
 ## Установка Emote Craft!
 
-1. Установите какой нибудь [<mark style="color:purple;">**Лоадер**</mark>](../dopolnitelnye-mody/start-moddinga.md).
+1. Установите какой нибудь [<mark style="color:purple;">**Лоадер**</mark>](modloaders.md).
 2. Скачайте мод для вашего Лоадера:[ <mark style="color:purple;">**Forge**</mark>](https://modrinth.com/mod/emotecraft/changelog?g=1.19.3\&l=forge) /[ <mark style="color:purple;">**Fabric**</mark>](https://modrinth.com/mod/emotecraft/changelog?g=1.19.3\&l=fabric)[ ](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)/ [<mark style="color:purple;">**Quilt**</mark>](https://modrinth.com/mod/emotecraft/changelog?g=1.19.3\&l=quilt)
 3. Поместите в вашу папку Майнкрафта. Пример: **`.minecraft/mods`**
 
