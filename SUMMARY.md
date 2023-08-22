@@ -15,6 +15,7 @@
 
 * [PlamsoVoice](plugins/plamsovoice.md)
 * [Brewery](plugins/brewery.md)
+* [Мелкие плагины](plugins/melkie-plaginy.md)
 
 ## 📚 Для ваших сборок <a href="#for-modpacks" id="for-modpacks"></a>
 
