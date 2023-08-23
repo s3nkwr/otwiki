@@ -1,3 +1,7 @@
+---
+description: Не совсем наш плагин, но у нас стоит своя версия Brewery
+---
+
 # Brewery
 
 {% hint style="info" %}

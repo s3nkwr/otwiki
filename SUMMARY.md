@@ -4,17 +4,17 @@
 
 * [Что такое этот ваш OTLegacy?](README.md)
 * [Как получить проходку?](otlegacy/how-to-join.md)
-* [Команды](otlegacy/komandy.md)
 * [Правила Сервера](otlegacy/server-rules.md)
 
 ## 💰 Поддержка <a href="#donate" id="donate"></a>
 
 * [Boosty & Patreon](donate/boosty-and-patreon.md)
 
-## 🪠 Плагины <a href="#plugins" id="plugins"></a>
+## 🪠 Наши плагины <a href="#plugins" id="plugins"></a>
 
-* [PlamsoVoice](plugins/plamsovoice.md)
 * [Brewery](plugins/brewery.md)
+* [Команды](plugins/komandy.md)
+* [Е-Рейтинг](plugins/e-reiting.md)
 * [Мелкие плагины](plugins/small-plugins.md)
 
 ## 📚 Для ваших сборок <a href="#for-modpacks" id="for-modpacks"></a>
