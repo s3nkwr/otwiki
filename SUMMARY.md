@@ -21,7 +21,6 @@
 
 * [Старт моддинга](for-modpacks/modloaders.md)
 * [Сборка и Ресурспак](for-modpacks/modpack-and-resourcepack.md)
-* [Защита лицензии](for-modpacks/no-chat-reports.md)
 * [Эмоции](for-modpacks/emotecraft.md)
 * [Войсчат](for-modpacks/plasmovoice.md)
 * [Реплеи](for-modpacks/replaymod.md)
