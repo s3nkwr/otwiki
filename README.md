@@ -16,4 +16,4 @@ coverY: -108.60043509789702
 
 ### Рестарты сервера
 
-Основной сервер: каждый день в <mark style="color:yellow;">`0:00`</mark> и <mark style="color:yellow;">`12:00`</mark> по МСК
+Основной сервер: каждый день в <mark style="color:yellow;">`0:00`</mark> <mark style="color:yellow;">`6:00`</mark> <mark style="color:yellow;">`12:00`</mark> <mark style="color:yellow;">`18:00`</mark> по МСК
