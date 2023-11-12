@@ -12,6 +12,7 @@
 * [Команды](plugins/komandy.md)
 * [Е-Рейтинг](plugins/e-reiting.md)
 * [Мелкие плагины](plugins/small-plugins.md)
+* [Креатив сервер](plugins/kreativ-server.md)
 
 ## 📚 Для ваших сборок <a href="#for-modpacks" id="for-modpacks"></a>
 
