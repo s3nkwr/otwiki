@@ -9,7 +9,7 @@ coverY: 0
 
 Установка нашей сборки!
 
-1. Устанавливаем[ <mark style="color:purple;">**FabricMC**</mark>](modloaders.md) или [<mark style="color:purple;">**QuiltMC**</mark>](modloaders.md)
+1. Устанавливаем[ <mark style="color:purple;">**FabricMC**</mark>](modloaders/) или [<mark style="color:purple;">**QuiltMC**</mark>](modloaders/)
 2. Скачиваем сборку с этой [<mark style="color:purple;">ссылки</mark>](https://cdn.discordapp.com/attachments/1089800666505027674/1143797761947480154/b1cc9b254a6fa50b.zip)
 3. В архиве есть папка **.minecraft**
 4. Кидаем эту папку в **.appdata/roaming. Эта папка зависит от лаунчера!!!**
