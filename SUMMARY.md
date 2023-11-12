@@ -6,10 +6,6 @@
 * [Как получить проходку?](otlegacy/how-to-join.md)
 * [Правила Сервера](otlegacy/server-rules.md)
 
-## 💰 Поддержка <a href="#donate" id="donate"></a>
-
-* [Boosty & Patreon](donate/boosty-and-patreon.md)
-
 ## 🪠 Наши плагины <a href="#plugins" id="plugins"></a>
 
 * [Brewery](plugins/brewery.md)
