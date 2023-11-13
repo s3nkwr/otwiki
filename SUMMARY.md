@@ -5,6 +5,7 @@
 * [Что такое этот ваш OTLegacy?](README.md)
 * [Как получить проходку?](otlegacy/how-to-join.md)
 * [Правила Сервера](otlegacy/server-rules.md)
+* [Креатив сервер](otlegacy/kreativ-server.md)
 
 ## 🪠 Наши плагины <a href="#plugins" id="plugins"></a>
 
@@ -12,7 +13,6 @@
 * [Команды](plugins/komandy.md)
 * [Е-Рейтинг](plugins/e-reiting.md)
 * [Мелкие плагины](plugins/small-plugins.md)
-* [Креатив сервер](plugins/kreativ-server.md)
 
 ## 📚 Для ваших сборок <a href="#for-modpacks" id="for-modpacks"></a>
 

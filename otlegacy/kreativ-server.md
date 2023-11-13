@@ -11,7 +11,7 @@ description: >-
 
 <details>
 
-<summary>PlotSquared(Управление плотами)</summary>
+<summary>PlotSquared (Управление плотами)</summary>
 
 ### Основные
 
@@ -50,5 +50,65 @@ description: >-
 /p flag list - Список всех доступных флагов
 
 /p flag add - Установить флаг на плот
+
+</details>
+
+<details>
+
+<summary>WorldEdit (Быстрое строительство и т.д.)</summary>
+
+[https://minecraft.fandom.com/ru/wiki/WorldEdit](https://minecraft.fandom.com/ru/wiki/WorldEdit)
+
+</details>
+
+<details>
+
+<summary>WorldEdit Selection Visualizer (Подсветка WorldEdit)</summary>
+
+/wesv toggle - Выключить подсветку области
+
+</details>
+
+<details>
+
+<summary>Head Database (Декоративные головы)</summary>
+
+/hdb - Меню плагина
+
+/phead <ник> - Получить голову игрока
+
+</details>
+
+<details>
+
+<summary>Builder's Utilities (Инструменты для строителей)</summary>
+
+/bu - Меню плагина с выбором функций
+
+/blocks - Меню блоков которых нету в режиме креатива
+
+/banner - Редактор баннеров
+
+/armorcolor - Редактор кожаной брони
+
+/nc - Режим No-clip
+
+/nv - Ночное зрение
+
+/af - Режим Advanced Fly
+
+</details>
+
+<details>
+
+<summary>GoPaint и GoBrush (Кисти для строительства)</summary>
+
+### GoPaint
+
+Для использования нужно взять перо `minecraft:feather`
+
+/gp - Команды плагина
+
+
 
 </details>
