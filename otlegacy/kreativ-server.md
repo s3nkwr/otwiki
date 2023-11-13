@@ -71,11 +71,39 @@ description: >-
 
 <details>
 
-<summary>Head Database (Декоративные головы)</summary>
+<summary>Image On Map (Вставка изображения в карту)</summary>
 
-/hdb - Меню плагина
+/tomap <ссылка> - Вставка изображения в карту
 
-/phead <ник> - Получить голову игрока
+Поддерживается только PNG, JPEG и GIF
+
+</details>
+
+<details>
+
+<summary>Light Cleaner (фикс бага со светом)</summary>
+
+/cleanlight - Починить свет в зоне прогрузки чанков
+
+/cleanlight <чанки> - Починить свет в радиусе заданных чанков
+
+</details>
+
+<details>
+
+<summary>DecentHolograms (Создание и редактирование голограмм)</summary>
+
+/hg create - Создание голограммы
+
+/hg edit - Редактирование голограммы
+
+/hg add - Добавление новой строчки
+
+/hg remove - Удаление строчки
+
+/hg move - Передвинуть голограмму
+
+/hg formats - Список всех форматирований голограмм
 
 </details>
 
@@ -101,6 +129,24 @@ description: >-
 
 <details>
 
+<summary>Head Database (Декоративные головы)</summary>
+
+/hdb - Меню плагина
+
+/phead <ник> - Получить голову игрока
+
+</details>
+
+<details>
+
+<summary>SurvivalInvisiframes (не видимые рамки)</summary>
+
+/iframe get — получить не видимую рамку
+
+</details>
+
+<details>
+
 <summary>GoPaint и GoBrush (Кисти для строительства)</summary>
 
 ### GoPaint
@@ -109,6 +155,20 @@ description: >-
 
 /gp - Команды плагина
 
+### GoBrush
 
+Для использования нужно взять кремень `minecraft:flint`
+
+/gb - Команды плагина
+
+</details>
+
+<details>
+
+<summary>Другие команды</summary>
+
+Работает и большинство других команд типа:
+
+/tp /enchant /enchants /enchantinfo /gamemode и так далее. Так же имеются элиасы к командам WorldEdit.
 
 </details>
