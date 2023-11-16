@@ -28,7 +28,7 @@ description: Не совсем наш плагин, но у нас стоит с
 
 Всего за один раз из полного котла можно собрать 3 бутылки напитка.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>как оно должно выглядеть.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>как оно должно выглядеть.</p></figcaption></figure>
 
 ## Дистиляция
 
