@@ -14,7 +14,7 @@ description: На нашем сервере присутствуют мелки�
 
  
 
-<figure><img src="../.gitbook/assets/itemdisplayeditor_recipe.png" alt="" width="363"><figcaption><p>Крафт Редактора <mark style="color:red;">ItemDisplay</mark></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/itemdisplayeditor_recipe.png" alt="" width="363"><figcaption><p>Крафт <mark style="color:red;">Редактора ItemDisplay</mark></p></figcaption></figure>
 
 </div>
 
