@@ -5,10 +5,7 @@
 * [Что такое этот ваш OTLegacy?](README.md)
 * [Как получить проходку?](otlegacy/how-to-join.md)
 * [Правила Сервера](otlegacy/server-rules.md)
-
-## 💰 Поддержка <a href="#donate" id="donate"></a>
-
-* [Boosty & Patreon](donate/boosty-and-patreon.md)
+* [Креатив сервер](otlegacy/kreativ-server.md)
 
 ## 🪠 Наши плагины <a href="#plugins" id="plugins"></a>
 
@@ -19,8 +16,8 @@
 
 ## 📚 Для ваших сборок <a href="#for-modpacks" id="for-modpacks"></a>
 
-* [Старт моддинга](for-modpacks/modloaders.md)
+* [Старт моддинга](for-modpacks/modloaders/README.md)
+  * [Эмоции](for-modpacks/modloaders/emotecraft.md)
+  * [Войсчат](for-modpacks/modloaders/plasmovoice.md)
+  * [Реплеи](for-modpacks/modloaders/replaymod.md)
 * [Сборка и Ресурспак](for-modpacks/modpack-and-resourcepack.md)
-* [Эмоции](for-modpacks/emotecraft.md)
-* [Войсчат](for-modpacks/plasmovoice.md)
-* [Реплеи](for-modpacks/replaymod.md)

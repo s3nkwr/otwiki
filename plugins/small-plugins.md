@@ -6,7 +6,7 @@ description: На нашем сервере присутствуют мелки�
 
 ## Кастомные рецепты
 
-![](<../.gitbook/assets/crafting-grid (2).png>)                               <img src="../.gitbook/assets/crafting-grid (3) (1).png" alt="" data-size="original">
+![](<../.gitbook/assets/crafting-grid (2).png>) ![](<../.gitbook/assets/crafting-grid (3) (1).png>)
 
 <figure><img src="../.gitbook/assets/crafting-grid (5).png" alt="" width="363"><figcaption></figcaption></figure>
 
