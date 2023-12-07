@@ -16,6 +16,7 @@
 
 ## 📚 Для ваших сборок <a href="#for-modpacks" id="for-modpacks"></a>
 
+* [Сборка и Ресурспак](for-modpacks/sborka-i-resurspak.md)
 * [Старт моддинга](for-modpacks/modloaders/README.md)
   * [Эмоции](for-modpacks/modloaders/emotecraft.md)
   * [Войсчат](for-modpacks/modloaders/plasmovoice.md)
