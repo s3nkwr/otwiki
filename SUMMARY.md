@@ -1,11 +1,11 @@
 # Table of contents
 
-## 😀 OTLegacy <a href="#otl" id="otl"></a>
+## 😀 OTLegacy
 
 * [Что такое этот ваш OTLegacy?](README.md)
-* [Как получить проходку?](otl/how-to-join.md)
-* [Правила Сервера](otl/server-rules.md)
-* [Креатив сервер](otl/kreativ-server.md)
+* [Как получить проходку?](otlegacy/how-to-join.md)
+* [Правила Сервера](otlegacy/server-rules.md)
+* [Креатив сервер](otlegacy/kreativ-server.md)
 
 ## 🪠 Наши плагины <a href="#plugins" id="plugins"></a>
 
@@ -20,4 +20,4 @@
   * [Эмоции](for-modpacks/modloaders/emotecraft.md)
   * [Войсчат](for-modpacks/modloaders/plasmovoice.md)
   * [Реплеи](for-modpacks/modloaders/replaymod.md)
-* [Сборка и Ресурспак](for-modpacks/mods-and-pack.md)
+* [Сборка и Ресурспак](for-modpacks/modpack-and-resourcepack.md)
