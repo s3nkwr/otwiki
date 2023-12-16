@@ -34,7 +34,7 @@ description: Чтобы на сервере не царила Анархия, б
 </details>
 
 {% hint style="warning" %}
-#### Наказание
+**Наказание**
 
 **От штрафа до перманентного бана.**\
 **За много численные жалобы в убийствах будет выдан варн.**
@@ -57,7 +57,7 @@ description: Чтобы на сервере не царила Анархия, б
 </details>
 
 {% hint style="warning" %}
-#### Наказание
+**Наказание**
 
 От штрафа и убирания до варна
 {% endhint %}
@@ -89,7 +89,7 @@ description: Чтобы на сервере не царила Анархия, б
 </details>
 
 {% hint style="danger" %}
-#### Наказание
+**Наказание**
 
 За продажу ресурсов Реальными деньгами - перманентный бан
 {% endhint %}
@@ -127,7 +127,7 @@ Litematica разрешена, easyPlaceMode разрешен, Litematica Printe
 </details>
 
 {% hint style="danger" %}
-#### Наказание
+**Наказание**
 
 От варна до перманентного бана
 {% endhint %}
@@ -153,7 +153,7 @@ Litematica разрешена, easyPlaceMode разрешен, Litematica Printe
 </details>
 
 {% hint style="warning" %}
-#### **Наказание**
+**Наказание**
 
 От штрафа до мута
 {% endhint %}
@@ -169,7 +169,7 @@ Litematica разрешена, easyPlaceMode разрешен, Litematica Printe
 </details>
 
 {% hint style="danger" %}
-#### **Наказание**
+**Наказание**
 
 **Бан всех аккаунтов.**
 {% endhint %}
@@ -208,7 +208,7 @@ Litematica разрешена, easyPlaceMode разрешен, Litematica Printe
 </details>
 
 {% hint style="warning" %}
-#### Наказание
+**Наказание**
 
 От устного предупреждения до варна
 
