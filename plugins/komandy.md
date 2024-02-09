@@ -2,31 +2,4 @@
 
 ## Основные команды сервера
 
-1. **/ballskin** - Сменить скин мяча
-2. **/card** - Команда нашего банка
-3. **/changepassword** - Сменить пароль
-4. **/crawl** - Ползти
-5. **/disc** - Создать кастомную пластинку
-6. **/groups** - Группы войсчата
-7. **/l**, **login** - Зайти на свой аккаунт
-8. **/reg**, **register** - Зарегистрировать аккаунт
-9. **/lay** - Лечь
-10. **/msg** - Написать другому игроку
-11. **/spenttime** - Отыгранное время на сервере
-12. **/rating** - Наша система рейтинга
-13. **/reply** - Ответить на сообщение игрока
-14. **/skin** - Поставить скин
-15. **/skins** - Посмотреть скины игроков
-16. **/sit** - Сесть
-17. **/me** — Отыгровка RP сценариев
-18. **/do** — Описание событий и ситуаций
-19. **/try** — Удачный/неудачный исход событий
-20. **/roll** - Выпадение рандомного числа из диапазона
-21. **/gme** - Отыгровка RP сценариев в глобал чате
-22. **/whisper** - Прошептать сообщение
-23. **/coin** - Подбросить монетку
-24. **/dice** - Подбросить кубик
-25. **/settings** - Настройки нашего сервера
-26. **/walkspeed** - Изменить скорость хотьбы
-27. **/enchants** - Посмотреть зачарования предмета
-28. **/enchantinfo** - Информация об зачаровании
+<table><thead><tr><th width="209">Команда</th><th></th></tr></thead><tbody><tr><td><strong>/ballskin</strong></td><td>Сменить скин мяча</td></tr><tr><td><strong>/card</strong></td><td>Команда нашего банка</td></tr><tr><td><strong>/changepassword</strong></td><td>Сменить пароль</td></tr><tr><td><strong>/crawl</strong></td><td>Ползти</td></tr><tr><td><strong>/disc</strong></td><td>Создать кастомную пластинку</td></tr><tr><td><strong>/groups</strong></td><td>Группы войсчата</td></tr><tr><td><strong>/l</strong>, <strong>login</strong></td><td>Зайти на свой аккаунт</td></tr><tr><td><strong>/reg</strong>, <strong>register</strong></td><td>Зарегистрировать аккаунт</td></tr><tr><td><strong>/lay</strong></td><td>Лечь</td></tr><tr><td><strong>/msg</strong></td><td>Написать другому игроку</td></tr><tr><td><strong>/spenttime</strong></td><td>Отыгранное время на сервере</td></tr><tr><td><strong>/rating</strong></td><td>Наша система рейтинга</td></tr><tr><td><strong>/reply</strong></td><td>Ответить на сообщение игрока</td></tr><tr><td><strong>/skin</strong></td><td>Поставить скин</td></tr><tr><td><strong>/skins</strong></td><td>Посмотреть скины игроков</td></tr><tr><td><strong>/sit</strong></td><td>Сесть</td></tr><tr><td><strong>/me</strong></td><td>Отыгровка RP сценариев</td></tr><tr><td><strong>/do</strong></td><td>Описание событий и ситуаций</td></tr><tr><td><strong>/try</strong> </td><td>Удачный/неудачный исход событий</td></tr><tr><td><strong>/roll</strong></td><td>Выпадение рандомного числа из диапазона</td></tr><tr><td><strong>/gme</strong></td><td>Отыгровка RP сценариев в глобал чате</td></tr><tr><td><strong>/whisper</strong></td><td>Прошептать сообщение</td></tr><tr><td><strong>/coin</strong></td><td>Подбросить монетку</td></tr><tr><td><strong>/dice</strong></td><td>Подбросить кубик</td></tr><tr><td><strong>/settings</strong></td><td>Настройки нашего сервера</td></tr><tr><td><strong>/walkspeed</strong></td><td>Изменить скорость хотьбы</td></tr><tr><td><strong>/enchants</strong></td><td>Посмотреть зачарования предмета</td></tr><tr><td><strong>/enchantinfo</strong></td><td>Информация об зачаровании</td></tr></tbody></table>
