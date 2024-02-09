@@ -11,10 +11,10 @@ coverY: -509
 
 ## Установка FabricMC
 
-1. Зайдите на сайт загрузки **FabricMC** - [<mark style="color:purple;">**https://fabricmc.net/use/installer/**</mark>](https://fabricmc.net/use/installer/)
+1. Зайдите на сайт загрузки [**FabricMC**](https://fabricmc.net/use/installer/)
 2. Нажмите **Download for (Ваша система).**
 3. После скачивания, откройте этот файл.
-4. Вылезет окно с установкой **FabricMC**.&#x20;
+4. Вылезет окно с установкой **FabricMC**.
 5. Поставьте в "**Версии Minecraft**" - 1.20.1
 6. Нажмите "**Установить**"
 
@@ -22,10 +22,10 @@ coverY: -509
 
 ### Оно поддерживает моды QuiltMC и моды FabricMC
 
-* Зайдите на сайт загрузки **QuiltMC** - [<mark style="color:purple;">**https://quiltmc.org/en/install/client/**</mark>](https://quiltmc.org/en/install/client/)
+* Зайдите на сайт загрузки [**QuiltMC**](https://quiltmc.org/en/install/client/)
 * Нажмите **Universal (.jar)**
 * После скачивания, откройте этот файл.
-* Вылезет окно с установкой **QuiltMC**.&#x20;
+* Вылезет окно с установкой **QuiltMC**.
 * Поставьте в "**Minecraft Version**" - 1.20.1
 * Нажмите "**Install**"
 
@@ -33,7 +33,7 @@ coverY: -509
 
 > !!! не рекомендуется из-за его оптимизации !!!
 
-1. Зайдите на сайт загрузки **Forge** - [<mark style="color:purple;">**нажмите сюда**</mark>](https://files.minecraftforge.net/net/minecraftforge/forge/index\_1.19.3.html)
+1. Зайдите на сайт загрузки [**Forge**](https://files.minecraftforge.net/net/minecraftforge/forge/)
 2. Нажмите **Installer**
 3. После скачивания, откройте этот файл.
 4. Вылезет окно с скачиванием **Forge**
