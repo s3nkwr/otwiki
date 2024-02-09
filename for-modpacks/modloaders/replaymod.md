@@ -10,14 +10,14 @@ description: >-
 
 ### Установка ReplayMod!
 
-1. Установите какой нибудь [<mark style="color:purple;">**Лоадер**</mark>](./).
-2. Скачайте мод для вашего Лоадера: [<mark style="color:purple;">**Fabric**</mark>](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)[ ](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)/ [<mark style="color:purple;">**Quilt**</mark>](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)
+1. Установите какой нибудь [**Лоадер**](./)
+2. Скачайте мод для вашего Лоадера: [**Fabric**](https://modrinth.com/mod/replaymod/changelog?l=fabric)[ ](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)/ [**Quilt**](https://modrinth.com/mod/replaymod/changelog?l=fabric)
 3. Поместите в вашу папку Майнкрафта. Пример: **`.minecraft/mods`**
 
 ### Установка Replay Voice Chat!
 
 Мод нужен для того чтобы записывать VoiceChat в Реплеях.
 
-1. Установите какой нибудь [<mark style="color:purple;">**Лоадер**</mark>](./).
-2. Скачайте мод для вашего Лоадера: [<mark style="color:purple;">**Fabric**</mark>](https://github.com/plasmoapp/pv-addon-replaymod/releases/latest) / [<mark style="color:purple;">**Quilt**</mark>](https://github.com/plasmoapp/replay-voice-chat/releases/latest)
+1. Установите какой нибудь [**Лоадер**](./).
+2. Скачайте мод для вашего Лоадера: [**Fabric**](https://github.com/plasmoapp/pv-addon-replaymod/releases) / [**Quilt**](https://github.com/plasmoapp/pv-addon-replaymod/releases)
 3. Поместите в вашу папку Майнкрафта. Пример: **`.minecraft/mods`**

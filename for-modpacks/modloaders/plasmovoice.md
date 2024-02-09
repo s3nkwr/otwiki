@@ -8,9 +8,9 @@ description: На нашем сервере стоит PlasmoVoice с его А�
 
 ### Установка Plasmo Voice!
 
-1. Поместите в вашу папку Майнкрафта. Пример: **`.minecraft/mods`**
-2. Скачайте мод для вашего Лоадера: [<mark style="color:purple;">**Forge**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?l=forge\&g=1.20.1) / [<mark style="color:purple;">**Fabric**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?g=1.20.1\&l=fabric)[ ](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)/ [<mark style="color:purple;">**Quilt**</mark>](https://modrinth.com/plugin/plasmo-voice/changelog?g=1.20.1\&l=fabric)
-3. Установите какой нибудь [<mark style="color:purple;">**Лоадер**</mark>](./).
+1. Установите какой нибудь [**Лоадер**](./)
+2. Скачайте мод для вашего Лоадера: [**Forge**](https://modrinth.com/plugin/plasmo-voice/changelog?l=forge) / [**Fabric**](https://modrinth.com/plugin/plasmo-voice/changelog?l=fabric)[ ](https://modrinth.com/mod/replaymod/changelog?l=fabric\&g=1.19.3)/ [**Quilt**](https://modrinth.com/plugin/plasmo-voice/changelog?l=fabric)
+3. Поместите в вашу папку Майнкрафта. Пример: **`.minecraft/mods`**
 
 ## Настройка мода
 
