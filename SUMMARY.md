@@ -20,5 +20,5 @@
   * [Эмоции](for-modpacks/modloaders/emotecraft.md)
   * [Войсчат](for-modpacks/modloaders/plasmovoice.md)
   * [Реплеи](for-modpacks/modloaders/replaymod.md)
-* [Сборка и Ресурспак](for-modpacks/mods-and-pack.md)
+* [Сборка](for-modpacks/mods-and-pack.md)
 * [Ресурспаки сообщества](for-modpacks/pack-from-player.md)
