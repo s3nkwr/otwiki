@@ -4,11 +4,11 @@ description: В данном разделе можно найти ресурсп
 
 # Ресурспаки сообщества
 
-## VHATS - 3Д Ресурспак от игрока TimeRemsi
+## Etherden - 3Д Ресурспак от игрока TimeRemsi
 
 ### Скачивание Ресурспака
 
-1. Переходим по этой [**ссылке**](https://modrinth.com/resourcepack/vhats) и скачиваем ресурспак ([**Список переименований**](https://p2g.lol/vhats))
+1. Переходим по этой [**ссылке**](https://modrinth.com/resourcepack/etd) и скачиваем ресурспак ([**Список переименований**](https://p2g.lol/etd))
 
 > Для работы ресурспака требуется [**OptiFine**](https://www.optifine.net/downloads) или [**CIT Resewn**](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
 
