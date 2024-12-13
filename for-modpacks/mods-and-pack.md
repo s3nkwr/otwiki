@@ -1,5 +1,6 @@
 ---
 description: Сборка для быстрого начала игры на сервере
+icon: box-open-full
 cover: >-
   https://images.unsplash.com/photo-1692064322351-6a0270e6c97e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTI3NzM0Nzl8&ixlib=rb-4.0.3&q=85
 coverY: 0

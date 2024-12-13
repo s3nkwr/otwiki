@@ -1,5 +1,6 @@
 ---
 description: OTLegacy - приватный сервер Майнкрафта для поиска друзей и ваших идей.
+icon: house
 cover: .gitbook/assets/2022-10-17_10.24.35.png
 coverY: -108.60043509789702
 ---

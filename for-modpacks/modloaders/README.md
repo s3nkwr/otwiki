@@ -2,6 +2,7 @@
 description: >-
   На сервере можно играть с Ванильной версии, но лучше установить специальный
   Лоадер для модов
+icon: brush
 cover: >-
   https://images.unsplash.com/photo-1679084185401-c317033ff2a8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODExOTU1NDY&ixlib=rb-4.0.3&q=85
 coverY: -509
