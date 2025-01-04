@@ -1,12 +1,16 @@
 ---
-description: Получить "Проходку" можно двумя способами.
 icon: ticket
+description: Получить "Проходку" можно двумя способами.
 cover: >-
   https://images.unsplash.com/photo-1679189790392-98ce5a4ef47c?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODExOTU1NDY&ixlib=rb-4.0.3&q=85
 coverY: -74
 ---
 
 # Как получить проходку?
+
+{% hint style="info" %}
+Временно покупка проходок не возможна.
+{% endhint %}
 
 ## Первый способ - Покупка
 
